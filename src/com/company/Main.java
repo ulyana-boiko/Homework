@@ -17,6 +17,6 @@ public class Main {
         customers.add(customer4);
         customers.add(customer5);
         Result result = new Result(customers);
-        result.printBankAccount(50, 100);
+        result.printBankAccount(55, 100);
     }
 }
